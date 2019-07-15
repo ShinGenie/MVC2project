@@ -1,0 +1,12 @@
+/* your styles go here */
+.login100-form-avatar {
+  display:inline-block;
+  width: 50px;
+  min-width:30px;
+  height: 50px;
+  min-height: 30px;
+  border-radius: 50%;
+  overflow: hidden;
+  position:absolute;
+  top:13px;
+}
